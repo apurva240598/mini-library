@@ -1,5 +1,0 @@
-entity Product {
-    name String,
-    description String,
-    price String
-}

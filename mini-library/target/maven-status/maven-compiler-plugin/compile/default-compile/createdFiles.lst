@@ -1,0 +1,5 @@
+dev\mitulgautam\minilibrary\MiniLibraryApplication.class
+dev\mitulgautam\minilibrary\controllers\BookController.class
+dev\mitulgautam\minilibrary\models\BorrowRecord.class
+dev\mitulgautam\minilibrary\models\Borrower.class
+dev\mitulgautam\minilibrary\models\Book.class
