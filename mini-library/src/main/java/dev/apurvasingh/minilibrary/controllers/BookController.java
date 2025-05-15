@@ -1,6 +1,6 @@
-package dev.mitulgautam.minilibrary.controllers;
+package dev.apurvasingh.minilibrary.controllers;
 
-import dev.mitulgautam.minilibrary.models.Book;
+import dev.apurvasingh.minilibrary.models.Book;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

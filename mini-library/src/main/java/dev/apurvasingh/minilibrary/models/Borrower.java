@@ -1,4 +1,4 @@
-package dev.mitulgautam.minilibrary.models;
+package dev.apurvasingh.minilibrary.models;
 
 import java.util.UUID;
 
